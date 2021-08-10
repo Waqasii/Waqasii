@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Waqasii
 - 👀 I’m interested in Web Development | Web Scrapping | Data Science | Artificial Intelligence | Desktop App | Data Visualization 
       | Bot Development Projects
-- 🌱 I’m currently learning Dajngo (Python), JavaScript, JQuery, AWS Services, React, AngularJS
+- 🌱 I’m currently learning Dajngo (Python), AWS Services, React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
   <a href="https://wa.me/923045415284">WhatsApp</a>,
