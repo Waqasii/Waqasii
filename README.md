@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning Dajngo (Python), AWS Services, React
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
-  <a href="https://wa.me/923175417304">WhatsApp</a>,
+  <a href="https://wa.me/4796708494">WhatsApp</a>,
   <a href="https://www.linkedin.com/in/muhammad-waqas-6ba499192">Linkedin</a>
+  <a href="waqas199886@gmail.com">Email</a>
   
 
 <a>.....</a> 
